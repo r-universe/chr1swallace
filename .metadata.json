@@ -1,0 +1,10 @@
+[
+  {
+    "package": "coloc",
+    "oncran": true
+  },
+  {
+    "package": "genomic.autocorr",
+    "oncran": true
+  }
+]
