@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "coloc"]
 	path = coloc
 	url = https://github.com/chr1swallace/coloc
-	shallow = true
-	registered = true
 [submodule "genomic.autocorr"]
 	path = genomic.autocorr
 	url = https://github.com/chr1swallace/genomic.autocorr
-	shallow = true
-	registered = true
