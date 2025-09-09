@@ -5,6 +5,9 @@
 [submodule "coloc"]
 	path = coloc
 	url = https://github.com/chr1swallace/coloc
+[submodule "colocPropTest"]
+	path = colocPropTest
+	url = https://github.com/cran/colocPropTest
 [submodule "genomic.autocorr"]
 	path = genomic.autocorr
 	url = https://github.com/chr1swallace/genomic.autocorr
